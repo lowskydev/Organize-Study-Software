@@ -21,7 +21,7 @@ Ensure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/study-learning-web-app.git
+git clone https://github.com/lowskydev/study-learning-web-app.git
 ```
 
 ### Running the Application
